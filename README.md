@@ -4,7 +4,7 @@
 
 ## 🔗 Demo
 
-[DEMO LINK](https://vladkugot.github.io/page_shop/)
+[DEMO LINK](https://vladkugot.github.io/react_phone-catalog/)
 
 ## 🎨 Design Reference  
 [DESIGN LINK Light](https://www.figma.com/design/7JTa0q8n3dTSAyMNaA0u8o/Phone-catalog--V2--Rounded-Style-3?node-id=0-1)
