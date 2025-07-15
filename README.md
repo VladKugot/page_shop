@@ -1,9 +1,21 @@
-# React TypeScript Starter Pack
+# 📱 React Product Catalog
 
-To use this template click `Use this template`
+Реалізація продуктового каталогу з підтримкою кошика, обраного, фільтрації, пагінації, сортування, а також сторінками категорій і деталей товарів.
 
-### Available Scripts
+## 🔗 Demo
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+[DEMO LINK](https://vladkugot.github.io/page_shop/)
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## 🎨 Design Reference  
+[DESIGN LINK Light](https://www.figma.com/design/7JTa0q8n3dTSAyMNaA0u8o/Phone-catalog--V2--Rounded-Style-3?node-id=0-1)
+[DESIGN LINK Dark](https://www.figma.com/design/BUusqCIMAWALqfBahnyIiH/Phone-catalog--V2--Original-Dark?node-id=0-1&p=f)
+
+
+## ⚙️ Технології
+
+- React + TypeScript
+- React Router
+- SCSS Modules
+- Context API або Redux
+- Eslint + Prettier + Husky
+- LocalStorage для збереження кошика та обраного
